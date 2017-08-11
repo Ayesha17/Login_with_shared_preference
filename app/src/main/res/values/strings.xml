@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="browse_course">Browse Courses</string>
+    <string name="login">Login</string>
+    <string name="search">keywords</string>
+    <string name="email_hint">Email</string>
+    <string name="pwd_hint">Password</string>
+    <string name="signin">SIGN IN</string>
+    <string name="reg">Register</string>
+    <string name="signup">SIGN UP</string>
+    <string name="remember"> Remember me</string>
+    <string name="forget"> Forget password?</string>
+    <string name="join">Don’t have account yet ? Join Us</string>
+    <string name="alr_join">Already have account ? Log in</string>
+    <string name="title_activity_registeration">registeration</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="confirm_pwd">Confirm Password</string>
+    <string name="btn_reg">Become a teacher</string>
+
+</resources>

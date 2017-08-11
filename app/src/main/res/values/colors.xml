@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#121412</color>
+    <color name="colorPrimary1">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="app_background_color">#264D70</color>
+    <color name="form_background_color">#0F1F2D</color>
+    <color name="editbox_color">#fff</color>
+
+</resources>
